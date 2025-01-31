@@ -1,3 +1,5 @@
+If you want to get the package contact https://t.me/MorshuDevForAll
+
 First Time Installation
 
 Install NodeJS (https://nodejs.org/en/download/)
